@@ -1,2 +1,2 @@
-# myoffice-
-Good Good Study ,Day Day up!
+# 疯狂Android第三版课本代码，方便领会书中精华，把时间多花在理解上，而不是重复性敲无意义代码
+&nbsp;&nbsp; 知识是需要时间来沉淀的，台上一分钟，台下十年功！
